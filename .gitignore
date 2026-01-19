@@ -2,3 +2,15 @@
 .vs/slnx.sqlite
 .vs/VSWorkspaceState.json
 server/.vs/server/FileContentIndex/7e9e8e6e-3327-47fd-b306-61c524b876c4.vsidx
+/server/bin/Debug/net8.0
+/server/obj/Container/ContainerDevelopmentMode.cache
+/server/obj/Container/ContainerId.cache
+/server/obj/Container/ContainerName.cache
+/server/obj/Container/ContainerRunContext.cache
+/server/obj/project.assets.json
+/server/obj/project.nuget.cache
+/server/obj/server.csproj.nuget.dgspec.json
+/server/.vs/ProjectEvaluation/server.metadata.v9.bin
+/server/.vs/ProjectEvaluation/server.projects.v9.bin
+/server/.vs/ProjectEvaluation/server.strings.v9.bin
+/server/.vs/server/config/applicationhost.config
